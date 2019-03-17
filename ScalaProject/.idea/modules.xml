@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Akka/Akka.iml" filepath="$PROJECT_DIR$/Akka/Akka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ScalaProject.iml" filepath="$PROJECT_DIR$/.idea/ScalaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkSQL/SparkSQL.iml" filepath="$PROJECT_DIR$/SparkSQL/SparkSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" filepath="$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionDemo/functionDemo.iml" filepath="$PROJECT_DIR$/functionDemo/functionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark/spark.iml" filepath="$PROJECT_DIR$/spark/spark.iml" />
+    </modules>
+  </component>
+</project>
